@@ -1,0 +1,9 @@
+{
+    "Name": "Original Music",
+    "Author": "whipowill",
+    "Description": "A mod for Terraria that reverts (imperfectly) game music back to how it was in versions 1.3 and prior (Town and Windy removed).",
+    "Version": {
+        "major": 1,
+        "minor": 0
+    }
+}

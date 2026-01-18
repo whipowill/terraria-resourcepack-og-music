@@ -1,0 +1,4 @@
+Content/Music/*.mp3
+Content/Music/*.off
+Content/Music/*.wav
+*.sh
