@@ -2,7 +2,7 @@
 
 A resource pack for Terraria that reverts (imperfectly) game music back to how it was in versions 1.3 and prior.
 
-Specifically, the objection is to tracks Town and Windy.  They are just the worst and they play constantly.  For old players like myself, this complete breaks the chill mood of the game.
+Specifically, the objection is to tracks Town and Windy.  They are just the worst and they play constantly.  For old players like myself, this completely breaks the chill vibe of the game.
 
 This mod replaces Town and Windy w/ other tracks from the original game.  Due to copyright issues, I'm not actually including the MP3 files in this repo.  But you can [find](https://archive.org/search?query=terraria+ost) them.
 
